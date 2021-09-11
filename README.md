@@ -23,7 +23,7 @@ The Index file contains html code that pulls in our various links and styles for
 
 Using Mapbox we created the background maps with three different layers. We then retrieved the earthquake data using the D3.json method.  From there we created various functions that set the style for the data points (circles), the colors of the circle data points, the radius of the circles based on magnitude and then to add all of this to the map.  We then refactored these functions as needed for the datapoints of earthquake data, tectonic lines and major earthquakes.
 
-![GrayScaleMap](Simple_Map/GrayScaleMap.png)
+![GrayScaleMap](Earthquake_Challenge/GrayScaleMap.png)
 
 
 
